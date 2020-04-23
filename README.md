@@ -10,3 +10,4 @@ nlp使用的工具
 ```bash
 $ pip install pyltp
 ```
+安装pyltp的时候因为其需要编译，大约花费10min
