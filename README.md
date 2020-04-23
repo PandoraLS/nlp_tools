@@ -11,3 +11,4 @@ nlp使用的工具
 $ pip install pyltp
 ```
 安装pyltp的时候因为其需要编译，大约花费10min
+如果使用官方提供的模型，需要提前下载后解压,[下载地址](http://ltp.ai/download.html)
