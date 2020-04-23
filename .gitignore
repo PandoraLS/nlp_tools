@@ -73,6 +73,11 @@ docs/_build/
 
 # PyBuilder
 target/
+.idea/
+
+# 命名实体识别
+ner/sentence/
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
